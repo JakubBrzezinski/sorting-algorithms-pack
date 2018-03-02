@@ -1,4 +1,4 @@
-package bubblesort;
+package bubbleSort;
 
 import java.util.Random;
 
